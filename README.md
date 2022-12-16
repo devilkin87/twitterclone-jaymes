@@ -1,5 +1,5 @@
 # twitter-clone
-This is my Twitter Clone Project you can see the [Live Deployment](https://jay-tweetclone.herokuapp.com/)
+This is my Twitter Clone Project you can see the [Live Deployment](https://twitterclone-jaymes.jaymesaj434.repl.co/)
 
 # Technologies Used
  - Django
